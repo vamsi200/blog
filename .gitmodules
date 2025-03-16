@@ -1,0 +1,4 @@
+[submodule "vamsi200blog/public"]
+	path = vamsi200blog/public
+	url = git@github.com:vamsi200/vamsi200.github.io.git
+	branch = main
